@@ -4,6 +4,10 @@
 
 ### 📂 폴더 구조 예시 (최상위 기준)
 
+
+![image](https://github.com/user-attachments/assets/6fd0e480-613c-48c0-a621-75d0f0cbcaf1)
+
+
 event-reward-platform/
 ├── auth/ # Auth Server (회원가입, 로그인, JWT 발급)
 ├── event/ # Event Server (이벤트 및 보상 관리)
