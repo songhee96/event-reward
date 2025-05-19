@@ -49,9 +49,8 @@ POST http://localhost:3000/auth/login
 
 
 🧹 종료 및 정리
-# 컨테이너 종료 (터미널에서 Ctrl+C)
-# 또는 백그라운드 실행 시
+컨테이너 종료 (터미널에서 Ctrl+C) 또는 백그라운드 실행 시
 docker-compose down
 
-# 불필요한 도커 이미지/캐시 정리 (선택)
+불필요한 도커 이미지/캐시 정리 (선택)
 docker system prune -a
