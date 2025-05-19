@@ -51,3 +51,8 @@ docker-compose down
 
 불필요한 도커 이미지/캐시 정리 (선택)
 docker system prune -a
+
+
+
+
+* 시간부족으로 이벤트 보상 기능 작동이 되지않음....
